@@ -3,3 +3,7 @@ o/p 1   https://github.com/jithendravarma782/JAVA_MINI_PROJECT_FILE/commit/5eddc
 
 
 o/p2 https://github.com/jithendravarma782/JAVA_MINI_PROJECT_FILE/blob/main/.3.png
+
+
+
+o/p3 https://github.com/jithendravarma782/JAVA_MINI_PROJECT_FILE/blob/main/.4.png
