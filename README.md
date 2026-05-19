@@ -7,3 +7,5 @@ o/p2 https://github.com/jithendravarma782/JAVA_MINI_PROJECT_FILE/blob/main/.3.pn
 
 
 o/p3 https://github.com/jithendravarma782/JAVA_MINI_PROJECT_FILE/blob/main/.4.png
+
+o/p4 https://github.com/jithendravarma782/JAVA_MINI_PROJECT_FILE/blob/main/1.png
